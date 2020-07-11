@@ -33,7 +33,7 @@
 
 > Add url remote repository 
 > ```
->   git remote add origin https://github.com/user/repository
+>   git remote add origin https://github.com/user/github-repository.git
 > ```
 
 > Push repository
