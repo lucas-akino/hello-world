@@ -2,11 +2,11 @@
 
 
 > Add url remote repository 
-> ```git
+> ```github
 >   git remote add origin https://github.com/user/repository
 > ```
 
 > Push repository
-> ```git
+> ```github
 >   git push -u origin master
 > ```
