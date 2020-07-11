@@ -13,6 +13,12 @@ Git command
 >   git add . // All file
 > ```
 
+> Show change in commit
+> ```
+>  git diff
+>  git show
+> ```
+
 > make a commit
 > ```
 >   git commit -m "messaje"
