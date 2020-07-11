@@ -2,7 +2,7 @@
 
 
 > Add url remote repository 
-> ```github
+> ```java
 >   git remote add origin https://github.com/user/repository
 > ```
 
